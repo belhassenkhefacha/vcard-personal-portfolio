@@ -43,21 +43,21 @@ Beyond the code, I pride myself on being a global citizen with a love for langua
 
 What i'm doing
 
-alt = design icon
-Web design
-The most modern and high-quality design made at a professional level.
-
 alt = Web development icon
-Web development
-High-quality development of sites at the professional level.
+Web Development
+I design and build responsive websites using core technologies like HTML, CSS, and JavaScript, ensuring a user-friendly experience. My expertise extends to back-end integration with PHP and frameworks like Symfony and ReactJS for more dynamic applications.
+
+alt = design icon
+Private Coding Tutor
+I offer tutoring sessions for beginners looking to learn the fundamentals of programming in Python, Java, and C. Having built projects like learning platforms and car rental systems, I can help simplify complex concepts for new students.
 
 alt = mobile app icon
-Mobile apps
-Professional development of applications for iOS and Android.
+Custom Software Solutions
+I create functional desktop and command-line applications tailored to specific needs, such as management systems or organization tools. My background includes developing hiking applications and vacation calendars using robust logic and secure authentication.
 
 alt = camera icon
-Photography
-I make high-quality photos of any category at a professional level.
+Translation Services
+With native proficiency in Arabic and professional proficiency in English, I can provide accurate translation and localization services. I also possess working knowledge of French and German, allowing me to assist with basic multilingual projects.
 
 
 ## testimonials
@@ -96,22 +96,31 @@ Resume
 Education
 
 University of Michigan-Flint
-2023 — Present
-Master of Science in Computer Science. Currently focusing on advanced technology and research in software engineering, specifically enhancing GitHub Actions failure explanations using Large Language Models (LLMs).
-
-Higher School of Economic and Commercial Sciences, Tunisia
-2019 — 2022
-Bachelor of Business Computing. Gained a solid academic foundation in technology and business systems, exploring the intersection of computing and economic sciences.
+January 2025 — Present
+Degree: Graduate Student in Computer Science
+Key Focus: Currently pursuing advanced studies in Computer Science with a focus on cutting-edge software engineering research.
+Achievements: Authored a research paper titled "Enhancing GitHub Actions Failure Explanations: Log Preprocessing and Prompt Optimization with LLMs," demonstrating active engagement with Large Language Models and automated debugging workflows.
 
 Experience
 
 Graduate Researcher
-2023 — Present
-Leading research on enhancing GitHub Actions failure explanations using Large Language Models (LLMs) to improve developer productivity and system reliability at the University of Michigan-Flint.
+January 2025 — Present
+Organization: University of Michigan-Flint
+Conducting research on "Enhancing GitHub Actions Failure Explanations: Log Preprocessing and Prompt Optimization with LLMs".
+Focusing on applying Large Language Models to solve complex software engineering challenges.
 
-Full-stack Developer Intern
-2022 — 2022
-Built a vacation calendar and a hiking application featuring secure JWT authentication and third-party API integration at Dream Tek Consulting, utilizing technologies like ReactJS and Symfony.
+Intern (PFE Internship)
+February 2024 — April 2024
+Organization: Dream Tek Consulting
+Developed a "Hiking organization application" utilizing the Symfony framework.
+Built a secure registration and login system implementing JWT authentication.
+Integrated third-party APIs to feature weather forecasts and trail mapping within the application.
+
+Intern
+June 2023 — September 2023
+Organization: Dream Tek Consulting
+Contributed to a "Vacation Calendar" project, designing and implementing the user interface using HTML, CSS, and JavaScript.
+Integrated back-end services using PHP to manage calendar functionality.
 
 My skills
 
