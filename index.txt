@@ -1,24 +1,24 @@
-vCard - Personal Portfolio
+Belhassen Khefacha - Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Belhassen Khefacha
+Belhassen Khefacha
+Graduate Student Software Engineering
 
 Show Contacts
 
 Email
-richard@example.com
+khefacha@umich.edu
 
 Phone
-+1 (213) 352-2795
++1 (585) 201-4439
 
 Birthday
-June 23, 1982
+August 24, 2002
 
 Location
-Sacramento, California, USA
+Flint, MI, USA
 
 # navbar
 
@@ -32,30 +32,32 @@ Contact
 
 About me
 
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
+Hello! I am Belhassen Khefacha, a passionate Computer Science Graduate Student currently pursuing my studies at the University of Michigan-Flint. My journey in technology is built on a solid academic foundation; I previously earned a Bachelor of Business Computing from the Higher School of Economic and Commercial Sciences in Tunisia. I am driven by a curiosity to understand how software works behind the scenes and a desire to build tools that solve real-world problems.
 
-My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
+My technical experience covers a wide range of full-stack development skills, including HTML, CSS, JavaScript, PHP, and Python, as well as frameworks like ReactJS and Symfony. I have applied these skills in practical settings, such as my internships at Dream Tek Consulting, where I built a vacation calendar and a hiking application featuring secure JWT authentication and third-party API integration. Currently, I am diving deeper into advanced technology through my research on enhancing GitHub Actions failure explanations using Large Language Models (LLMs).
+
+Beyond the code, I pride myself on being a global citizen with a love for languages; I am proficient in English and Arabic, with working abilities in French and German. When I am not focused on programming or academic research, I enjoy unwinding through music and sports. I am always looking for the next opportunity to learn, grow, and contribute to impactful software projects.
 
 
 ## service
 
 What i'm doing
 
-alt = design icon
-Web design
-The most modern and high-quality design made at a professional level.
-
 alt = Web development icon
-Web development
-High-quality development of sites at the professional level.
+Web Development
+I design and build responsive websites using core technologies like HTML, CSS, and JavaScript, ensuring a user-friendly experience. My expertise extends to back-end integration with PHP and frameworks like Symfony and ReactJS for more dynamic applications.
+
+alt = design icon
+Private Coding Tutor
+I offer tutoring sessions for beginners looking to learn the fundamentals of programming in Python, Java, and C. Having built projects like learning platforms and car rental systems, I can help simplify complex concepts for new students.
 
 alt = mobile app icon
-Mobile apps
-Professional development of applications for iOS and Android.
+Custom Software Solutions
+I create functional desktop and command-line applications tailored to specific needs, such as management systems or organization tools. My background includes developing hiking applications and vacation calendars using robust logic and secure authentication.
 
 alt = camera icon
-Photography
-I make high-quality photos of any category at a professional level.
+Translation Services
+With native proficiency in Arabic and professional proficiency in English, I can provide accurate translation and localization services. I also possess working knowledge of French and German, allowing me to assist with basic multilingual projects.
 
 
 ## testimonials
@@ -64,19 +66,19 @@ Testimonials
 
 alt = Daniel lewis
 Daniel lewis
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+Belhassen was hired to create a corporate identity. We were very pleased with the work done. He has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
 
 alt = Jessica miller
 Jessica miller
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+Belhassen was hired to create a corporate identity. We were very pleased with the work done. He has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
 
 alt = Emily evans
 Emily evans
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+Belhassen was hired to create a corporate identity. We were very pleased with the work done. He has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
 
 alt = Henry william
 Henry william
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+Belhassen was hired to create a corporate identity. We were very pleased with the work done. He has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
 
 
 ## clients
@@ -93,42 +95,45 @@ Resume
 
 Education
 
-University school of the arts
-2007 — 2008
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
-
-New york academy of art
-2006 — 2007
-Ratione voluptatem sequi nesciunt, facere quisquams facere menda ossimus, omnis voluptas assumenda est omnis..
-
-High school of art and design
-2002 — 2004
-Duis aute irure dolor in reprehenderit in voluptate, quila voluptas mag odit aut fugit, sed consequuntur magni dolores eos.
+University of Michigan-Flint
+January 2025 — Present
+Degree: Graduate Student in Computer Science
+Key Focus: Currently pursuing advanced studies in Computer Science with a focus on cutting-edge software engineering research.
+Achievements: Authored a research paper titled "Enhancing GitHub Actions Failure Explanations: Log Preprocessing and Prompt Optimization with LLMs," demonstrating active engagement with Large Language Models and automated debugging workflows.
 
 Experience
 
-Creative director
-2015 — Present
-Nemo enim ipsam voluptatem blanditiis praesentium voluptum delenit atque corrupti, quos dolores et qvuas molestias exceptur.
+Graduate Researcher
+January 2025 — Present
+Organization: University of Michigan-Flint
+Conducting research on "Enhancing GitHub Actions Failure Explanations: Log Preprocessing and Prompt Optimization with LLMs".
+Focusing on applying Large Language Models to solve complex software engineering challenges.
 
-Art director
-2013 — 2015
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+Intern (PFE Internship)
+February 2024 — April 2024
+Organization: Dream Tek Consulting
+Developed a "Hiking organization application" utilizing the Symfony framework.
+Built a secure registration and login system implementing JWT authentication.
+Integrated third-party APIs to feature weather forecasts and trail mapping within the application.
 
-Web designer
-2010 — 2013
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+Intern
+June 2023 — September 2023
+Organization: Dream Tek Consulting
+Contributed to a "Vacation Calendar" project, designing and implementing the user interface using HTML, CSS, and JavaScript.
+Integrated back-end services using PHP to manage calendar functionality.
 
 My skills
 
-Web design
-80%
-Graphic design
-70%
-Branding
+PHP & Symfony
 90%
-WordPress
-50%
+HTML/CSS/JavaScript
+85%
+Java
+75%
+Python
+70%
+C Programming
+65%
 
 
 
